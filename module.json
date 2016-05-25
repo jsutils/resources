@@ -1,0 +1,8 @@
+{
+    "name": "jsutils/resources",
+    "jsutils/resources": {
+        "js": ["jsutils.resources.js"],
+        "on": ["jsutils/file", "jsutils/cache"]
+    }
+
+}
