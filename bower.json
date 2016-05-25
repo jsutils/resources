@@ -1,0 +1,24 @@
+{
+  "name": "jsutils-resources",
+  "homepage": "https://github.com/jsutils/resources",
+  "authors": [
+    "Lalit Tanwar <lalit.tanwar07@gmail.com>"
+  ],
+  "main": "jsutils.resources.js",
+  "keywords": [
+    "resources"
+  ],
+  "dependencies": {
+    "webmodules-foo" : ">=3.0.0",
+    "jsutils-file" :"~0.1.1",
+    "jsutils-tmpl" :"~0.0.2"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
